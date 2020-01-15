@@ -20,7 +20,7 @@ Ahora escribe el siguiente comando dentro del directorio para poder correr el pr
 ### `npm start`
 
 
-### ESTE PROYECTO SIGUE CIERTAS CONVENCIONES. [Revisa las convenciones](projectConventions) para poder familiarizarte mas rapido con el proyecto y tambien seguirlas.
+### ESTE PROYECTO SIGUE CIERTAS CONVENCIONES. [Revisa las convenciones](projectConventions.md) para poder familiarizarte mas rapido con el proyecto y tambien seguirlas.
 
 .
 .
