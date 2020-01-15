@@ -1,5 +1,8 @@
 .App {
+
+  /* Automatically center all content by default */ 
   text-align: center;
+  min-height: 100vh;
 }
 
 .App-logo {

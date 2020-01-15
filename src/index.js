@@ -4,9 +4,16 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+/* Apollo Stuff */
+import ApolloClient from 'apollo-boost';
 
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
+/* Configure apollo client and pass the client object to the App component */
+const client = new ApolloClient({
+    uri: 'http://localhost:4000', //Todo: change this to the real backend url and enable CORS
+});
+
+
+ReactDOM.render(<App client={client} />, document.getElementById('root'));
+
 // Learn more about service workers: https://bit.ly/CRA-PWA
 serviceWorker.unregister();

@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "PlanMed App",
+  "name": "Aplicativo Web de Parte de PlanMed para los proveedores",
   "icons": [
     {
       "src": "favicon.ico",

@@ -1,4 +1,36 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Plan Med
+
+Aplicativo Web para los proveedores oficiales de Plan Med.
+
+Este aplicativo utiliza ReactJs y GraphQL.
+
+Revisa el [ambiente de desarollo](devEnviroment.md) antes de instalar/clonar el proyecto para ver lo que necesitas para poder correr este proyecto
+
+## Instalacion del proyecto
+
+Clona el repositorio dentro de un directorio vacio, abre una terminal dentro de 
+ese directorio vacio y escribe el siguiente comando:
+
+### `npm install`
+
+Esto te deberia de instalar todas las dependencias utilizadas dentro del proyecto.
+
+Ahora escribe el siguiente comando dentro del directorio para poder correr el proyecto: 
+
+### `npm start`
+
+
+### ESTE PROYECTO SIGUE CIERTAS CONVENCIONES. [Revisa las convenciones](projectConventions) para poder familiarizarte mas rapido con el proyecto y tambien seguirlas.
+
+.
+.
+.
+.
+.
+.
+.
+
+**Puedes ignorar lo siguiente**
 
 ## Available Scripts
 
