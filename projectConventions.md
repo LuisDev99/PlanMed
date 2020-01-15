@@ -12,13 +12,13 @@ easier to find things for new developers.
 
 Every module (that is, package or a component) imported inside a js file follows the **following order**:
 
-Any **React** related package should be imported first
+1. Any **React** related package should be imported first
 
-Any **Material UI** component **OR any external** component from a third party library should be imported next
+2. Any **Material UI** component **OR any external** component from a third party library should be imported next
 
-Any **Custom component OR file (that is, utilities or css files)** should be imported next
+3. Any **Custom component OR file (that is, utilities or css files)** should be imported next
 
-Any **Graphql related package OR file** should be imported at last
+4. Any **Graphql related package OR file** should be imported at last
 
 
 ## Components conventions
