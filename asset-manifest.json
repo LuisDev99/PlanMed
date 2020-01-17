@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/PlanMed/static/css/main.af52fd49.chunk.css",
-    "main.js": "/PlanMed/static/js/main.7e169640.chunk.js",
-    "main.js.map": "/PlanMed/static/js/main.7e169640.chunk.js.map",
+    "main.js": "/PlanMed/static/js/main.f27b4990.chunk.js",
+    "main.js.map": "/PlanMed/static/js/main.f27b4990.chunk.js.map",
     "runtime-main.js": "/PlanMed/static/js/runtime-main.0cee4717.js",
     "runtime-main.js.map": "/PlanMed/static/js/runtime-main.0cee4717.js.map",
-    "static/js/2.32bb7289.chunk.js": "/PlanMed/static/js/2.32bb7289.chunk.js",
-    "static/js/2.32bb7289.chunk.js.map": "/PlanMed/static/js/2.32bb7289.chunk.js.map",
+    "static/js/2.938d8ffd.chunk.js": "/PlanMed/static/js/2.938d8ffd.chunk.js",
+    "static/js/2.938d8ffd.chunk.js.map": "/PlanMed/static/js/2.938d8ffd.chunk.js.map",
     "index.html": "/PlanMed/index.html",
-    "precache-manifest.33b6908db735dbaa5bbf219d44a43941.js": "/PlanMed/precache-manifest.33b6908db735dbaa5bbf219d44a43941.js",
+    "precache-manifest.f95c22fc6c17f1972a7161e69ca15d50.js": "/PlanMed/precache-manifest.f95c22fc6c17f1972a7161e69ca15d50.js",
     "service-worker.js": "/PlanMed/service-worker.js",
     "static/css/main.af52fd49.chunk.css.map": "/PlanMed/static/css/main.af52fd49.chunk.css.map",
-    "static/js/2.32bb7289.chunk.js.LICENSE": "/PlanMed/static/js/2.32bb7289.chunk.js.LICENSE"
+    "static/js/2.938d8ffd.chunk.js.LICENSE": "/PlanMed/static/js/2.938d8ffd.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.0cee4717.js",
-    "static/js/2.32bb7289.chunk.js",
+    "static/js/2.938d8ffd.chunk.js",
     "static/css/main.af52fd49.chunk.css",
-    "static/js/main.7e169640.chunk.js"
+    "static/js/main.f27b4990.chunk.js"
   ]
 }
