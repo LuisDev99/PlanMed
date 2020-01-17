@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/PlanMed/precache-manifest.665c8ca0f1f61beba858f8d2ad6f9e18.js"
+  "/PlanMed/precache-manifest.45db38615f0e36ecfc500f4bf72d7210.js"
 );
 
 self.addEventListener('message', (event) => {
