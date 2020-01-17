@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "95079c6905e8a17c64216e43b954628c",
+    "revision": "6f421b3002aabb8eb68b52f4a462b970",
     "url": "/PlanMed/index.html"
   },
   {
-    "revision": "9bd4aa424145b72e192d",
+    "revision": "2b2ace0c28345b9b46a8",
     "url": "/PlanMed/static/css/main.af52fd49.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PlanMed/static/js/2.938d8ffd.chunk.js.LICENSE"
   },
   {
-    "revision": "9bd4aa424145b72e192d",
-    "url": "/PlanMed/static/js/main.f27b4990.chunk.js"
+    "revision": "2b2ace0c28345b9b46a8",
+    "url": "/PlanMed/static/js/main.62a971f1.chunk.js"
   },
   {
     "revision": "456f71f280521b030b40",
